@@ -10,7 +10,7 @@ ul {
   margin: 0; 
   padding: 0; 
   overflow: hidden; 
-  background-color: #373F51;
+  background-color: #70ABAF;
   position: fixed;
   width:100%;
   top:0;
@@ -32,7 +32,7 @@ float: left;
 
 li a{
   display: block;
-  color: #999999;
+  color: #32292F;
   text-align: center;
   padding: 30px 25px;
   text-decoration: none;
@@ -41,14 +41,14 @@ li a{
 /* nav bar hover*/
 
 li a:hover{
-  Background-color: #999999;
-  color: #E2E2E2;
+  Background-color: #8CCDC6;
+  color: #705D56;
 }
 
 /*background of whole web */
 
 body{
-  background-color: #B8B8B8;
+  background-color: #AFB4B2;
 }
 
 
