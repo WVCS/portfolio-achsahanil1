@@ -1,5 +1,5 @@
 /* title color */
-h1 {color: black;
+h1 {color: #444446;
   text-align: center;
   margin-top: 4rem;
 }
@@ -10,7 +10,7 @@ ul {
   margin: 0; 
   padding: 0; 
   overflow: hidden; 
-  background-color: #A26769;
+  background-color: #373F51;
   position: fixed;
   width:100%;
   top:0;
@@ -32,7 +32,7 @@ float: left;
 
 li a{
   display: block;
-  color: black;
+  color: #999999;
   text-align: center;
   padding: 30px 25px;
   text-decoration: none;
@@ -41,26 +41,15 @@ li a{
 /* nav bar hover*/
 
 li a:hover{
-  Background-color: #D5B9B2;
+  Background-color: #999999;
+  color: #E2E2E2;
 }
 
 /*background of whole web */
 
 body{
-  background-color: #ECE2D0;
+  background-color: #B8B8B8;
 }
 
 
 
-.img-ex1{
-  width:60%;
-  align-items:center;
-}
-
-.par1{
-  color: #E1DDDA;
-  background-color: #582C4D;
-  width: 80%;
-  text-align: center;
-  font-size: 150%
-}
