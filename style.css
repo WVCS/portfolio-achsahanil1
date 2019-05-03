@@ -53,3 +53,18 @@ body{
 
 
 
+/*paragragh for about me*/
+
+table {
+  font-family: Verdana;
+  width: 100%;
+}
+
+td, th {
+  text-align: center;
+  padding: 8px;
+}
+
+
+
+
