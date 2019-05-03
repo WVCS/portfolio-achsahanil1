@@ -1,4 +1,66 @@
+/* title color */
 h1 {color: black;
   text-align: center;
   margin-top: 4rem;
+}
+
+/* nav bar */
+ul {
+  list-style-type: none; 
+  margin: 0; 
+  padding: 0; 
+  overflow: hidden; 
+  background-color: #A26769;
+  position: fixed;
+  width:100%;
+  top:0;
+}
+
+html, body{
+  margin:0;
+  padding:0;
+}
+
+li {
+float: left;
+}
+*{
+ font-family: 'Verdana', cursive; 
+}
+
+/* nav bar text */
+
+li a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 30px 25px;
+  text-decoration: none;
+}
+
+/* nav bar hover*/
+
+li a:hover{
+  Background-color: #D5B9B2;
+}
+
+/*background of whole web */
+
+body{
+  background-color: #ECE2D0;
+}
+
+
+
+.img-ex1{
+  width:60%;
+  align-items:center;
+}
+
+.par1{
+  color: #E1DDDA;
+  background-color: #582C4D;
+  width: 80%;
+  text-align: center;
+  font-size: 150%
 }
