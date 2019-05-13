@@ -1,7 +1,8 @@
 /* title color */
-h1 {color: #444446;
+h1 {color: #937b5a;
   text-align: center;
   margin-top: 4rem;
+  font-family: Monospace;
 }
 
 /* nav bar */
@@ -10,7 +11,7 @@ ul {
   margin: 0; 
   padding: 0; 
   overflow: hidden; 
-  background-color: #70ABAF;
+  background-color: #92C4EE;
   position: fixed;
   width:100%;
   top:0;
@@ -25,30 +26,42 @@ li {
 float: left;
 }
 *{
- font-family: 'Verdana', cursive; 
+ font-family: Monospace; 
 }
 
 /* nav bar text */
 
 li a{
   display: block;
-  color: #32292F;
+  color: #00305E;
   text-align: center;
   padding: 30px 25px;
   text-decoration: none;
+  font-family: Monospace;
+  font-size: 15pt
+}
+
+bi b{
+  display: block;
+  color: #00305E;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+  font-family:Monospace;
+  font-size:20pt ;
 }
 
 /* nav bar hover*/
 
 li a:hover{
-  Background-color: #8CCDC6;
-  color: #705D56;
+  Background-color: #BBDBF7;
+  color: #64ABE3;
 }
 
 /*background of whole web */
 
 body{
-  background-color: #AFB4B2;
+  background-color: #F6E3D4;
 }
 
 
@@ -56,14 +69,18 @@ body{
 /*paragragh for about me*/
 
 table {
-  font-family: Verdana;
+  font-family: Monospace;
   width: 100%;
+  color: #937b5a;
+  font-size: 15pt;
 }
 
 td, th {
   text-align: center;
-  padding: 8px;
+  padding: 20px;
 }
+
+
 
 
 
