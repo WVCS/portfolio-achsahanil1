@@ -89,4 +89,8 @@ th.underline {
   text-decoration: underline;
 }
 
+th {
+  width: 50%;
+}
+
 
