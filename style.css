@@ -85,6 +85,8 @@ td, th {
   height: 6rem;
 }
 
-
+th.underline {
+  text-decoration: underline;
+}
 
 
